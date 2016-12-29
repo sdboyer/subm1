@@ -1,0 +1,3 @@
+[submodule "dep-test"]
+	path = dep-test
+	url = https://github.com/sdboyer/dep-test
